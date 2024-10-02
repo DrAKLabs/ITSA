@@ -1,5 +1,7 @@
 # List of libraries and functions used in ITSA 
 
+<!-- HTML table for details -->
+
 <table>
   <thead>
     <tr>
@@ -9,8 +11,6 @@
       <th>Specific Functions Imported</th>
     </tr>
   </thead>
-  <tbody>
-
     <tr>
       <td>tensorflow</td>
       <td>tf</td>
@@ -150,6 +150,4 @@
       <td>File operations</td>
       <td>N/A</td>
     </tr>
-    
-  </tbody>
 </table>
