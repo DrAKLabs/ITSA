@@ -3,8 +3,9 @@
 #### Project funded by @CIHR and @ArthritisSociety
 
 For application to MR Images of muscle. The code provided here is adapted for analysis of 
-T1-weighted Fast Spin Echo (FSE) images of the thigh from the Osteoarthritis Initiative (OAI)
+T1-weighted Fast Spin Echo (FSE) images of the thigh and calf muscles. It has also been shown to work on in phase Dixon / IDEAL images. 
 
+Change all starting variables for your use case within the execution notebook. 
 Run execution notebook to go through workflow 
 Definitions notebook contains all work flow procedures 
 
